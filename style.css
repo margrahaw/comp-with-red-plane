@@ -1,0 +1,150 @@
+.red {
+    background: #de0001;
+  }
+  
+  .yellow {
+    background: #fa9507
+  }
+  
+  .grey {
+    background: #9fb2c1;
+  }
+  
+  .black {
+    background: #050801;
+  }
+  
+  .white {
+    background: #f1eff0;
+  }
+  .blue {
+    background: #00112d;
+  }
+  
+  #container {
+    position: relative;
+    margin: 100px auto;
+    width: 1000px;
+    height: 1000px;
+    background: #000;
+    z-index: -1;
+  }
+  #one {
+    position: absolute;
+    width: 230px;
+    height: 105px;
+  }
+  #two {
+    position: absolute;
+    left: 250px;
+    width: 355px;
+    height: 105px;
+  }
+  #three {
+    position: absolute;
+    left: 625px;
+    width: 315px;
+    height: 105px;
+  }
+  #four {
+    position: absolute;
+    right: 0px;
+    width: 42px;
+    height: 750px;
+  }
+  #five {
+    position: absolute;
+    top: 125px;
+    width: 105px;
+    height: 230px;
+  }
+  #six {
+    position: absolute;
+    top: 125px;
+    left: 125px;
+    width: 480px;
+    height: 480px;
+  }
+  #seven {
+    position: absolute;
+    top: 125px;
+    left: 625px;
+    width: 315px;
+    height: 230px;
+  }
+  #eight {
+    position: absolute;
+    top: 375px;
+    width: 105px;
+    height: 375px;
+  }
+  #nine {
+    position: absolute;
+    top: 375px;
+    left: 625px;
+    width: 147.5px;
+    height: 230px;
+  }
+  #ten {
+    position: absolute;
+    top: 375px;
+    left: 790.5px;
+    width: 147.5px;
+    height: 230px;
+  }
+  
+  #twelve {
+    position: absolute;
+    top: 625px;
+    left: 375px;
+    width: 230px;
+    height: 125px;
+  }
+  #thirteen {
+    position: absolute;
+    top: 625px;
+    left: 625px;
+    width: 315px;
+    height: 125px;
+  }
+  #fourteen{
+    position: absolute;
+    top: 770px;
+    width: 105px;
+    height: 230px;
+  }
+  #fifteen {
+    position: absolute;
+    top: 770px;
+    left: 375px;
+    width: 230px;
+    height: 125px;
+  }
+  #sixteen {
+    position: absolute;
+    top: 770px;
+    left: 625px;
+    width: 315px;
+    height: 180px;
+  }
+  #seventeen {
+    position: absolute;
+    top: 770px;
+    right: 0;
+    width: 42px;
+    height: 230px;
+  }
+  #eighteen {
+    position: absolute;
+    top: 915px;
+    left: 125px;
+    width: 230px;
+    height: 85px;
+  }
+  #twenty {
+    position: absolute;
+    top: 970px;
+    left: 375px;
+    width: 563px;
+    height: 30px;
+  }
