@@ -1,2 +1,4 @@
 # comp-with-red-plane
-A grid inspired by Piet Mondrian's Composition with Large Red Plane, created using CSS. 
+A layout inspired by Piet Mondrian's Composition with Large Red Plane, created using CSS. 
+
+This project was an exercise in using CSS relative and absolute positioning. 
